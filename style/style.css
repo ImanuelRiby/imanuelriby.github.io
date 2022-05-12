@@ -8,3 +8,8 @@
 body {
   background: gray;
 }
+.contents {
+  width: 100%;
+  min-height: 500px;
+  background: #555;
+}
